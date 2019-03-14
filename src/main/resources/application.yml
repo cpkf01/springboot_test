@@ -1,10 +1,10 @@
-person:
-  name: 曹璞
-  age: 22
-  gender: '0'
-  pets:
-    - cat
-    - dog
-  dog:
-   name: 小黄
-   color: red
+#person:
+#  age: 22
+#  gender: '0'
+#  pets:
+#    - cat
+#    - dog
+#  dog:
+#   name: 小黄
+#   color: red
+#  name: 小王
